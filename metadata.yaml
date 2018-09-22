@@ -1,5 +1,5 @@
 _repo: The-Orloff-Couple-and-Malva_55582
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Montefiore, Dora B.
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Jakowleff, Emily
     gutenberg_agent_id: '48403'
     url: http://www.gutenberg.org/2009/agents/48403
+covers:
+- cover_type: archival
+  image_path: 55582-h/images/cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55582#The-Orloff-Couple-and-Malva
 gutenberg_issued: '2017-09-19'
 gutenberg_type: Text
 identifiers:
